@@ -1,0 +1,16 @@
+name = "ARCOMM Sandbox"
+author = "ARCOMM"
+prefix = "arc_snd"
+mainprefix = "z"
+
+[version]
+git_hash = 0
+
+[hemtt.config]
+preset = "Hemtt"
+
+[hemtt.launch]
+workshop = [
+    "450814997", # CBA_A3
+    "463939057", # ACE
+]
