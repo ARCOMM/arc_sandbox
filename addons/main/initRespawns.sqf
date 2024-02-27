@@ -44,7 +44,7 @@ private _logicGroup = createGroup sideLogic;
 private _boxes = [];
 private _lanterns = [];
 {
-	LOG_1("Creating initial respawn at position", _x);
+	LOG_1("Creating initial respawn at position",_x);
 	private _box = createVehicle ["Land_PaperBox_open_full_F", _x, [], 0, "NONE"];
 	private _lantern = createVehicle ["Land_Camping_Light_F", _x, [], 0, "NONE"];
 	_lantern attachTo [_box, [-0.422119,0.346191,0.685676]];
@@ -74,7 +74,7 @@ private _lanterns = [];
 	];
 	_x addAction [
 		"<t size='2' font='RobotoCondensedBold'>Arsenal</t>",
-		{0 = ["Open", true] spawn BIS_fnc_arsenal;},
+		{["Open", true] spawn BIS_fnc_arsenal;},
 		0, 102, true, false
 	];
 } forEach _this}] remoteExecCall ["BIS_fnc_call", 0, true];
