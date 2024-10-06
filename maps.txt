@@ -48,6 +48,7 @@ fapovo
 namalsk
 pja305
 UMB_Colombia
+go_map_fjord
 
 # WWII
 I44_Merderet
