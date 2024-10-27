@@ -49,6 +49,8 @@ namalsk
 pja305
 UMB_Colombia
 go_map_fjord
+Farabad
+IslaPera
 
 # WWII
 I44_Merderet
