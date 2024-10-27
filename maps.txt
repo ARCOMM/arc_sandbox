@@ -51,6 +51,13 @@ UMB_Colombia
 go_map_fjord
 Farabad
 IslaPera
+falluja
+pja314
+vtf_lybor
+wl_rosche
+brf_sumava
+tem_suursaariv
+tem_vinjesvingenc
 
 # WWII
 I44_Merderet
