@@ -54,10 +54,13 @@ IslaPera
 falluja
 pja314
 vtf_lybor
+vtf_lybor_winter
 wl_rosche
 brf_sumava
 tem_suursaariv
 tem_vinjesvingenc
+kidal
+kunduz_valley
 
 # WWII
 I44_Merderet
